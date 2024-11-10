@@ -1,6 +1,6 @@
 using Tyuiu.RubanovEO.Sprint4.Task4.V25.Lib;
 
-namespace Tyuiu.RubanovEO.Sprint4.Task4.V25.Task
+namespace Tyuiu.RubanovEO.Sprint4.Task4.V25.Test
 {
     public class Tests
     {
