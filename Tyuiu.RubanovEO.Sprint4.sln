@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubanovEO.Sprint4.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubanovEO.Sprint4.Task4.V25.Lib", "Tyuiu.RubanovEO.Sprint4.Task4.V25.Lib\Tyuiu.RubanovEO.Sprint4.Task4.V25.Lib.csproj", "{E0D5051A-CEA0-4618-AD3E-9ADA20671445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubanovEO.Sprint4.Task4.V25.Task", "Tyuiu.RubanovEO.Sprint4.Task4.V25.Task\Tyuiu.RubanovEO.Sprint4.Task4.V25.Task.csproj", "{1FC17892-ADFE-4E13-9808-EB94E672EEB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubanovEO.Sprint4.Task4.V25.Test", "Tyuiu.RubanovEO.Sprint4.Task4.V25.Task\Tyuiu.RubanovEO.Sprint4.Task4.V25.Test.csproj", "{1FC17892-ADFE-4E13-9808-EB94E672EEB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
